@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+Reports/*.txt
+Reports/*.json
