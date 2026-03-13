@@ -1,0 +1,14 @@
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\bin\Debug\net10.0\FinanceAnalyzerPro.exe
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\bin\Debug\net10.0\FinanceAnalyzerPro.deps.json
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\bin\Debug\net10.0\FinanceAnalyzerPro.runtimeconfig.json
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\bin\Debug\net10.0\FinanceAnalyzerPro.dll
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\bin\Debug\net10.0\FinanceAnalyzerPro.pdb
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.AssemblyInfoInputs.cache
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.AssemblyInfo.cs
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.csproj.CoreCompileInputs.cache
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.dll
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\refint\FinanceAnalyzerPro.dll
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.pdb
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\FinanceAnalyzerPro.genruntimeconfig.cache
+C:\Users\Ege Yıldız\Desktop\FinanceAnalyzerPro\obj\Debug\net10.0\ref\FinanceAnalyzerPro.dll

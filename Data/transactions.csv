@@ -1,0 +1,64 @@
+Date,Description,Category,Merchant,Amount,Type
+2026-01-01,Monthly salary,Income,Employer,32000,Income
+2026-01-02,Apartment rent,Housing,Landlord,12000,Expense
+2026-01-03,Weekly groceries,Groceries,Migros,1450,Expense
+2026-01-04,Streaming subscription,Subscriptions,Netflix,230,Expense
+2026-01-05,Electricity bill,Utilities,Electric Co,980,Expense
+2026-01-07,Coffee with friends,Food,Starbucks,180,Expense
+2026-01-08,Freelance design payment,Income,Client A,4200,Income
+2026-01-10,Taxi to school,Transport,BiTaksi,340,Expense
+2026-01-11,Pharmacy purchase,Health,Eczane Plus,560,Expense
+2026-01-13,Gym fee,Health,MacFit,900,Expense
+2026-01-15,Online course,Education,Udemy,1100,Expense
+2026-01-18,Dinner outing,Food,BigChefs,860,Expense
+2026-01-21,Game purchase,Entertainment,Steam,1250,Expense
+2026-01-24,Internet bill,Utilities,TurkNet,450,Expense
+2026-01-26,Savings transfer,Savings,Bank Transfer,5000,Expense
+
+2026-02-01,Monthly salary,Income,Employer,32000,Income
+2026-02-02,Apartment rent,Housing,Landlord,12000,Expense
+2026-02-03,Weekly groceries,Groceries,Migros,1720,Expense
+2026-02-04,Streaming subscription,Subscriptions,Netflix,230,Expense
+2026-02-05,Electricity bill,Utilities,Electric Co,1020,Expense
+2026-02-06,Book purchase,Education,Amazon,480,Expense
+2026-02-08,Freelance repair payment,Income,Client B,3600,Income
+2026-02-10,Taxi ride,Transport,BiTaksi,390,Expense
+2026-02-11,Doctor checkup,Health,Medical Center,1500,Expense
+2026-02-14,Valentine dinner,Food,Nusr-Et,1850,Expense
+2026-02-17,Headphones purchase,Shopping,MediaMarkt,4200,Expense
+2026-02-20,Cinema ticket,Entertainment,Cinemaximum,320,Expense
+2026-02-24,Internet bill,Utilities,TurkNet,450,Expense
+2026-02-26,Savings transfer,Savings,Bank Transfer,6000,Expense
+
+2026-03-01,Monthly salary,Income,Employer,32000,Income
+2026-03-02,Apartment rent,Housing,Landlord,12000,Expense
+2026-03-03,Weekly groceries,Groceries,Migros,1600,Expense
+2026-03-04,Streaming subscription,Subscriptions,Netflix,230,Expense
+2026-03-05,Electricity bill,Utilities,Electric Co,1090,Expense
+2026-03-06,Freelance design payment,Income,Client C,5100,Income
+2026-03-08,Taxi ride,Transport,BiTaksi,410,Expense
+2026-03-09,New phone purchase,Shopping,Apple Store,26500,Expense
+2026-03-10,Gym fee,Health,MacFit,900,Expense
+2026-03-12,Cafe visit,Food,Starbucks,210,Expense
+2026-03-14,Dinner outing,Food,Midpoint,940,Expense
+2026-03-18,Cloud subscription,Subscriptions,Google One,399,Expense
+2026-03-20,Course payment,Education,Coursera,2200,Expense
+2026-03-24,Internet bill,Utilities,TurkNet,450,Expense
+2026-03-26,Savings transfer,Savings,Bank Transfer,7000,Expense
+2026-03-28,Concert ticket,Entertainment,Biletix,1800,Expense
+
+2026-04-01,Monthly salary,Income,Employer,32000,Income
+2026-04-02,Apartment rent,Housing,Landlord,12000,Expense
+2026-04-03,Groceries restock,Groceries,CarrefourSA,1880,Expense
+2026-04-04,Streaming subscription,Subscriptions,Netflix,230,Expense
+2026-04-05,Water and gas bill,Utilities,Utility Hub,1260,Expense
+2026-04-07,Coffee and snack,Food,Starbucks,260,Expense
+2026-04-08,Freelance website payment,Income,Client D,4600,Income
+2026-04-10,Metro card top-up,Transport,IstanbulKart,300,Expense
+2026-04-11,Dentist payment,Health,Dental Clinic,2100,Expense
+2026-04-13,Gym fee,Health,MacFit,900,Expense
+2026-04-15,Certification exam,Education,Pearson Vue,3600,Expense
+2026-04-18,Dinner with friends,Food,BigChefs,980,Expense
+2026-04-21,Monitor purchase,Shopping,Vatan,8900,Expense
+2026-04-24,Internet bill,Utilities,TurkNet,450,Expense
+2026-04-26,Savings transfer,Savings,Bank Transfer,5500,Expense

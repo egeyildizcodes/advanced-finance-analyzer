@@ -1,0 +1,15 @@
+{
+  "CategoryBudgets": {
+    "Housing": 12000,
+    "Groceries": 3500,
+    "Subscriptions": 800,
+    "Utilities": 3000,
+    "Food": 2500,
+    "Transport": 1200,
+    "Health": 2200,
+    "Education": 3000,
+    "Entertainment": 2200,
+    "Shopping": 9000,
+    "Savings": 7000
+  }
+}
